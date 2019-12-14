@@ -1,0 +1,30 @@
+
+body{
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.reg-box{
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	background-color: rgba(110,200,110, .2);
+	padding: 0px 30px;
+	color: white;
+	border-radius: 10px;
+}
+
+.reg-box2{
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	background-color: rgba(110,200,110, .2);
+	padding: 30px 30px;
+	color: white;
+	border-radius: 10px;
+}
+
+
